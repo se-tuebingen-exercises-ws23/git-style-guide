@@ -5,7 +5,7 @@ Kernel*](https://kernel.org/doc/html/latest/process/submitting-patches.html),
 the [git man pages](http://git-scm.com/doc) and various practices popular
 among the community.
 
-This is a simple educational fork of the original version,
+This is an educational fork of the original version,
 which resides at [`agis/git-style-guide`](https://github.com/agis/git-style-guide).
 
 Translations are available in the following languages:
